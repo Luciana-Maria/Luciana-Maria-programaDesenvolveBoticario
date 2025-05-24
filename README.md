@@ -16,7 +16,6 @@ Utilizando a ferramenta **Suno AI** e a **engenharia de prompt**, criei uma mús
 > **Letra criada com IA:**  
 > Uma homenagem divertida à saga de quem estuda muito e ainda busca sua vaga no mercado de TI.
 
-🔗 [Ouça a música aqui](🎶 _Certificada Sem Carteira_ 🎶.mp3)
 
 🎤 Criada com:  
 - ChatGPT (engenharia de prompt)  
