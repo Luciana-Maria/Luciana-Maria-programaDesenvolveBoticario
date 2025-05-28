@@ -1,6 +1,9 @@
 # 🌟 Projeto Desenvolve - Grupo Boticário  
-### Trilha: Inteligência Artificial + Fundamentos de Dados  
+## Trilha: Inteligência Artificial + Fundamentos de Dados  
+ ### Fui destaque na [Koru](https://www.linkedin.com/company/escola-koru/posts/?feedView=all) 
 
+![Luciana no Destaque da Koru](./Midia/Reconhecimento-kuro.jpg) <!-- nome do arquivo que você subir no repositório --> <BR>
+Obrigada  por ser ponte de transformação social por meio da educação em tecnologia. Gratidão por acreditarem em mim e me darem espaço pra brilhar! <BR>
 ---
 
 ## 👋 Olá! Eu sou a Luciana!
@@ -64,7 +67,7 @@ Ferramentas utilizadas:
 Gratidão aos professores e mentores do Programa Desenvolve, especialmente ao time da trilha de IA, por conduzirem a jornada de forma leve e inspiradora.<br>
 Acompanhe os instrutores no LinkedIn <br>
 - Trilha de Inteliência Artifícial [Luciano Soler](https://www.linkedin.com/in/luciano-soler-59aa6128/)
-- Trilha de Dados [Anderson Gonçalves](https://www.linkedin.com/in/anderson-gon%C3%A7alves-596b1770/)
+- Trilha de Dados [Anderson Gonçalves](https://www.linkedin.com/in/anderson-gon%C3%A7alves-596b1770/) 
 
 ---
 
